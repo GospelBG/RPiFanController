@@ -1,2 +1,4 @@
 # RPiFanController
-A simple script in Python to controll the Pi's fan speed, depending on the current temperature.
+A simple script in Python to toggle the Pi's fan, depending on the current temperature.
+
+It is required a fan with a 3 pin connections (5V, GND, and GPIO)
